@@ -1,6 +1,8 @@
 # sms_emmassa_locasms
  
    Como enviar enviar sms em massa utilizando o WebService LocaSMS
+   
+   Site para criar sua conta: http://locasms.com.br/
 
 
                    <?php
